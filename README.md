@@ -1,5 +1,6 @@
 ```
-from github import ReadMe
+from Github import ReadMe
+
 class femboy(ReadMe):
   def __init__(self):
     self.info = 'Just an average no life developer'
