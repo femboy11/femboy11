@@ -5,7 +5,9 @@ class femboy(ReadMe):
   def __init__(self):
     self.info = 'Just an average no life developer'
     self.hobby = 'Annoying discord'
-    self.contact = 'No need to contact me'
+    self.contact = {
+        'Discord': 'femboy11'
+    }
 ```
 
 <!---
