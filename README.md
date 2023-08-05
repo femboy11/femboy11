@@ -1,4 +1,4 @@
-```
+```py
 from Github import ReadMe
 
 class femboy(ReadMe):
